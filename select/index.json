@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "2step",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-28T03:43:55.432875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Belong To the Sea (Mintman 2Step Mix)",
+      "artist": "Aqua feat. Mintman",
+      "has_synced": false,
+      "path": "select/01_We_Belong_To_the_Sea_(Mintman_2Step_Mix)_Aqua_feat._Mintman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rocking, Just to Make Ya Move (Missing Link 2Step mix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/02_Rocking,_Just_to_Make_Ya_Move_(Missing_Link_2Step_mix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rockin, Just Make Ya Move (Missing Link 2step Mix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/03_Rockin,_Just_Make_Ya_Move_(Missing_Link_2step_Mix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "2step (feat. Lil Baby)",
+      "artist": "Ed Sheeran feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/04_2step_(feat._Lil_Baby)_Ed_Sheeran_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/05_2step_Ed_Sheeran_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/06_2step_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/07_2step_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "2step (feat. Lil Baby)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/08_2step_(feat._Lil_Baby)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "2step (feat. Lil Baby)",
+      "artist": "Ed Sheeran, Lil Baby",
+      "has_synced": true,
+      "path": "select/09_2step_(feat._Lil_Baby)_Ed_Sheeran,_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/10_2step_Ed_Sheeran_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2step (feat. Potter Payper)",
+      "artist": "Ed Sheeran feat. Potter Payper",
+      "has_synced": true,
+      "path": "select/11_2step_(feat._Potter_Payper)_Ed_Sheeran_feat._Potter_Payper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Potter Payper",
+      "has_synced": true,
+      "path": "select/12_2step_Ed_Sheeran_feat._Potter_Payper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "2step (feat. Ellinoora)",
+      "artist": "Ed Sheeran feat. Ellinoora",
+      "has_synced": true,
+      "path": "select/13_2step_(feat._Ellinoora)_Ed_Sheeran_feat._Ellinoora.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Ellinoora",
+      "has_synced": true,
+      "path": "select/14_2step_Ed_Sheeran_feat._Ellinoora.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "2step (feat. Budjerah)",
+      "artist": "Ed Sheeran feat. Budjerah",
+      "has_synced": true,
+      "path": "select/15_2step_(feat._Budjerah)_Ed_Sheeran_feat._Budjerah.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Budjerah",
+      "has_synced": true,
+      "path": "select/16_2step_Ed_Sheeran_feat._Budjerah.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "2step (feat. Quevedo)",
+      "artist": "Ed Sheeran feat. Quevedo",
+      "has_synced": true,
+      "path": "select/17_2step_(feat._Quevedo)_Ed_Sheeran_feat._Quevedo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "2step",
+      "artist": "Ed Sheeran feat. Quevedo",
+      "has_synced": true,
+      "path": "select/18_2step_Ed_Sheeran_feat._Quevedo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "2step Bhangra",
+      "artist": "The Bilz feat. so D & Kashif",
+      "has_synced": false,
+      "path": "select/19_2step_Bhangra_The_Bilz_feat._so_D_&_Kashif.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2step",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_2step_Ed_Sheeran.txt"
+    }
+  ]
+}
